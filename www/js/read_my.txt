@@ -1,0 +1,6 @@
+jquery-1.11.3.min.js		- библиотека jquery
+
+jquery.validate.min.js		- плагин jquery для валидации
+additional-methods.min.js	- плагин jquery для валидации
+
+link_in_list.js			- скрипт по формированию ссылок в виде списка
